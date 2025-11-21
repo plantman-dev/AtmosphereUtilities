@@ -17,10 +17,12 @@ It allows planet modders to specify which parts of an atmosphere can be breathea
     {
         Body
         {
-            name = MyCoolPlanet // 
-            lower = 3000 // Lower bopund of breatheable atmosphere
-            upper = 26000 // Upper bound of bretheable atmopshere
+            name = MyCoolPlanet // Name of planet 
+            lower = 3000 // Lower bound of breatheable atmosphere
+            upper = 26000 // Upper bound of breatheable atmopshere
         }
     }
 
 # Download:
+
+Github: https://github.com/plantman-dev/AtmosphereUtilites.git
